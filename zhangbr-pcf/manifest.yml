@@ -1,0 +1,12 @@
+---
+applications:
+  #DEV
+  - name: zhangbr-pcf
+    memory: 512M
+    instances: 1
+    buildpacks:
+      - nodejs_buildpack
+    env:
+      NODE_ENV: development
+    services:
+      - zhangbr-newrelic
