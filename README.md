@@ -1,4 +1,4 @@
 # mu-labs-doctors-patients
 
 ### Exploring:
-#### Express.js, Node.js, REST API, React, Swagger, Postman, PCF, YAML
+#### Express.js, Node.js, React, REST API, PCF, Swagger, Postman, YAML
